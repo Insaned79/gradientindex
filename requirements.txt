@@ -1,0 +1,7 @@
+catboost
+numpy
+pandas
+plotly
+plotly_express
+scikit_learn
+scipy
